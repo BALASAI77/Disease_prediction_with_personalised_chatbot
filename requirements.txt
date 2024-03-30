@@ -1,4 +1,4 @@
-streamlit==<streamlit-version>
-pandas==<pandas-version>
-scikit-learn==<scikit-learn-version>
-google-generativeai==<gemini-api-version>
+streamlit
+pandas
+scikit-learn
+google-generativeai
