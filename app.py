@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 import google.generativeai as genai
 import time
-genai.configure(api_key='AIzaSyDKIzUuX0lDQkH5GsHdYO4I8YHV5k8u0Sc')
+
 
 # Load data
 df2 = pd.read_csv('Symptom-severity.csv')
@@ -109,6 +109,7 @@ if submitted:
 
 
 # Display responses
+
 
 
 
